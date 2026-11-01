@@ -1,33 +1,24 @@
 <div align="center">
 
-<!-- LOCAL CITY-POP BANNER -->
-<a href="https://github.com/macu-dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil DevOps de María Claudia">
-  </picture>
+<!-- TÍTULO DE PRESENTACIÓN -->
+<h3>Imanol Romero Blanco — Portafolio Profesional</h3>
+
+<!-- GIF PRINCIPAL DE IMANOL -->
+<a href="https://github.com/ImRomeroBl">
+  <img src="assets/Imanol2.gif" width="960" alt="Perfil personalizado de Imanol">
 </a>
 
 <br>
 
-<a href="https://github.com/macu-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Maria+Claudia+%E2%80%94+DevOps+Engineer%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Native%3BContainers+%E2%80%A2+Kubernetes+%E2%80%A2+Observability%3BCafe+-+Retro+-+Music+-+Vibe+-+Chill+-+Tecnologia" alt="Banner animado con perfil DevOps">
+<a href="https://github.com/ImRomeroBl">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=c7a4f5&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Imanol+Romero+Blanco+%E2%80%94+Frontend+Developer%3BUX%2FUI+Designer+%7C+Software+Engineering;Estudiante+en+la+BUAP+%E2%80%A2+Sistemas+Cl%C3%ADnicos;Clean+Code+-+Design+-+Architecture+-+Vibe+-+Chill" alt="Banner animado con perfil Frontend y UX/UI">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=macu-dev&style=flat&color=f78ca0&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=ImRomeroBl&style=flat&color=c7a4f5&label=profile+views" alt="profile views">
 
 </div>
 
 ---
-
-## `$ whoami`
-
-<p align="center">
-  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de María Claudia, DevOps Engineer">
-</p>
-
-<br>
 
 <div align="center">
 
@@ -36,51 +27,39 @@
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>macu-dev:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code>ImRomeroBl:~$ cat tech-stack.yaml</code></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top"><code>├─ ☁ cloud_infrastructure:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=aws,azure,ansible" alt="AWS, Azure y Ansible"><br>
-        <sub><code>AWS · Azure · Ansible</code></sub>
+      <td width="50%" valign="top"><code>├─ ✦ frontend_mobile:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,tailwind" alt="JavaScript, TypeScript, React, HTML, CSS y Tailwind"><br>
+        <sub><code>JavaScript · TypeScript · React · React Native · Expo · Tailwind</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ ▣ databases_messaging:</code><br><br>
-        <img src="assets/icon-amazon-rds.svg" height="48" alt="Amazon RDS">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb" alt="MySQL, PostgreSQL, MongoDB y DynamoDB"><br>
-        <sub><code>Amazon RDS · MySQL · PostgreSQL · MongoDB · DynamoDB</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ ⚙ containers_ci_cd:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,gitlab,bitbucket,bash" alt="Kubernetes, Docker, GitHub Actions, GitLab CI, Bitbucket y Bash"><br>
-        <sub><code>Kubernetes · Docker · GitHub Actions · GitLab CI · Bitbucket · Bash</code></sub>
-      </td>
-      <td valign="top"><code>├─ ◉ monitoring_observability:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=sentry,prometheus" alt="Sentry y Prometheus">
-        <img src="https://cdn.simpleicons.org/datadog/76d8d2?viewbox=auto" height="48" alt="Datadog">
-        <img src="assets/icon-amazon-cloudwatch.svg" height="48" alt="Amazon CloudWatch"><br>
-        <sub><code>Sentry · Prometheus · Datadog · Amazon CloudWatch</code></sub>
+      <td width="50%" valign="top"><code>├─ 🎨 design_ux_ui:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=figma,xd" alt="Figma y XD"><br>
+        <sub><code>Figma · Prototyping · Wireframing · Design Systems</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,nextjs,typescript,python,fastapi" alt="Node.js, JavaScript, React, Next.js, TypeScript, Python y FastAPI"><br>
-        <sub><code>Node.js · JavaScript · React · Next.js · TypeScript · Python · FastAPI</code></sub>
+      <td valign="top"><code>├─ ⚙ desktop_languages:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=python,kotlin,git,github,vscode" alt="Python, Kotlin, Git, GitHub y VS Code"><br>
+        <sub><code>Python · Kotlin · CustomTkinter · Git · GitHub · VS Code</code></sub>
       </td>
-      <td valign="top"><code>╰─ ⌁ security_iac:</code><br><br>
-        <img src="https://cdn.simpleicons.org/trivy/f3d29b?viewbox=auto" height="48" alt="Trivy">
-        <img src="assets/icon-sonarqube.svg" height="48" alt="SonarQube">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform">
-        <img src="https://cdn.simpleicons.org/cilium/c7a4f5?viewbox=auto" height="48" alt="Cilium">
-        <img src="https://cdn.simpleicons.org/falco/76d8d2?viewbox=auto" height="48" alt="Falco"><br>
-        <sub><code>Trivy · SonarQube · Terraform · Cilium · Falco</code></sub>
+      <td valign="top"><code>├─ 🧠 software_architecture:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=stackoverflow,discord" alt="Arquitectura y Documentación"><br>
+        <sub><code>Ontologías · Owlready2 · MVC · Documentación · Planeación</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top"><code>├─ 🏥 featured_project: Sistema Clínico Basado en Ontologías</code><br><br>
+        <sub><code>Sistema inteligente desarrollado en Python, CustomTkinter y Owlready2 para la gestión estructurada de historiales clínicos, consultas médicas y recetas personalizadas por paciente.</code></sub>
       </td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production</code></td>
+      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: buap-puebla</code></td>
     </tr>
   </tfoot>
 </table>
@@ -89,22 +68,22 @@
 
 ---
 
-## `$ kubectl get signals --all-namespaces`
+## `$ git status --featured-skills`
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-light.svg" width="390" alt="Radar de habilidades DevOps">
+    <img src="assets/radar-light.svg" width="390" alt="Radar de habilidades Frontend y UX/UI">
   </picture>&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-    <img src="assets/radar-langs-light.svg" width="370" alt="Radar de lenguajes y scripting">
+    <img src="assets/radar-langs-light.svg" width="370" alt="Radar de lenguajes y frameworks">
   </picture>
 </p>
 
-<p align="center"><sub><code>signals: devops_skill_radar · language_stack_radar · status: healthy</code></sub></p>
+<p align="center"><sub><code>signals: frontend_skill_radar · architecture_stack_radar · status: healthy</code></sub></p>
 
 ---
 
@@ -113,17 +92,14 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/diario_devops">
-  <img src="https://img.shields.io/badge/Instagram-f78ca0?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
+<a href="https://github.com/ImRomeroBl">
+  <img src="https://img.shields.io/badge/GitHub-c7a4f5?style=for-the-badge&logo=github&logoColor=1a1a2e" alt="GitHub">
 </a>&nbsp;&nbsp;
-<a href="https://medium.com/@maraclaudiaprezescalante">
-  <img src="https://img.shields.io/badge/Medium-c7a4f5?style=for-the-badge&logo=medium&logoColor=1a1a2e" alt="Medium">
+<a href="mailto:imanol26rb@gmail.com">
+  <img src="https://img.shields.io/badge/Email-c7a4f5?style=for-the-badge&logo=gmail&logoColor=1a1a2e" alt="Email">
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mcperezes/">
+<a href="https://www.linkedin.com/in/imanol-romero-blanco-9045621b1/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
-<a href="https://github.com/macu-dev">
-  <img src="https://img.shields.io/badge/GitHub-f78ca?style=for-the-badge&logo=github&logoColor=1a1a221" alt="GitHub">
 </a>
 
 </div>
@@ -132,5 +108,5 @@
 <br>
 
 <div align="center">
-<sub>Hecho con 💖 y mucho cafe desde Rosario, Argentina · @macu-dev</sub>
+<sub>Hecho con 💜 y café desde Puebla, México · BUAP · @ImRomeroBl</sub>
 </div>
